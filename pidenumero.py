@@ -19,3 +19,5 @@ while True:
 print("En esta ocasion el intento si fue exitoso")
 print("ya tu sabe")
 print("inserta mas codigo")
+
+print("Se ingresa una nueva caracteristica")
